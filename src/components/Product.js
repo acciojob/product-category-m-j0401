@@ -9,7 +9,7 @@ const Product=()=>{
     function handleChange(e)
     {
       let val=e.target.value;
-      setData(List["val"]);
+      setData(List[val]);
     }
 
 
